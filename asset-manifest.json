@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/separador-equipes/static/css/main.48dd3467.css",
+    "main.js": "/separador-equipes/static/js/main.a7b6658c.js",
+    "static/js/787.85428361.chunk.js": "/separador-equipes/static/js/787.85428361.chunk.js",
+    "service-worker.js": "/separador-equipes/service-worker.js",
+    "index.html": "/separador-equipes/index.html",
+    "main.48dd3467.css.map": "/separador-equipes/static/css/main.48dd3467.css.map",
+    "main.a7b6658c.js.map": "/separador-equipes/static/js/main.a7b6658c.js.map",
+    "787.85428361.chunk.js.map": "/separador-equipes/static/js/787.85428361.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48dd3467.css",
+    "static/js/main.a7b6658c.js"
+  ]
+}
