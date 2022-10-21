@@ -9,7 +9,7 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
-    <div>OIOIOI</div>
+    <div>Primeira Build Separador de Equipes!</div>
   </React.StrictMode>
 );
 
